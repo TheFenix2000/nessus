@@ -1,5 +1,4 @@
-# Nessus-report docx document generating function
-Nessus-report creating algorithm.
+# Nessus-report docx document generating argorithm
 # Requirements:
 ```
  python3.6+
